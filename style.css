@@ -1,0 +1,48 @@
+/* lect 1 css */
+/* lect 2 css */
+/* lect 3 css */
+
+
+
+.page2 h1{
+    font-size: 600px;
+    /* transform: translate(-100%); */
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+
+/* lect 4 css */
+
+#string{
+    height: 200px;
+    width: 100%;
+   background-color: red;
+   margin-top: 100px;
+}
+
+
+
+/* lect 5 css */
+
+
+.marque img{
+    height: 60px;
+
+}
+
+#move{
+    overflow-x: hidden  ;
+}
+.marque{
+    gap:3vw;
+    background-color: red;
+    flex-shrink: 0;
+    /* margin-left: -100px; */
+    transform: translateX(-900%);
+}
+
+
